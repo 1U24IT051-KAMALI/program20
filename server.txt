@@ -1,4 +1,3 @@
-
 #!/bin/bash
 echo &quot;===== SYSTEM STATUS =====&quot;
 echo &quot;CPU Load:&quot;
